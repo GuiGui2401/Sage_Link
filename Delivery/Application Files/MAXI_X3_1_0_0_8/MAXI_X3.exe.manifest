@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MAXI_X3.exe" version="1.0.0.8" publicKeyToken="8ba9bbce6100e27d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MAXI_X3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MAXI_X3.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MAXI_X3.exe" size="59872">
+      <assemblyIdentity name="MAXI_X3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vuEzDG/lF7BOloDIyL4jalJexXou+V3S65KoXXCzIX8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="374784">
+      <assemblyIdentity name="Newtonsoft.Json" version="4.5.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7Cw2yGUUV56OlgckydX94nk/T9aL7VA7YvLFgLlthjw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Net.Http.Formatting.dll" size="168544">
+      <assemblyIdentity name="System.Net.Http.Formatting" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VfDygm51VoRbKAhn7I/UwSnCBQY49HXcDbU++VSVAN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon.ico" size="5430">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KTo7OEkCEbIYwUMW9K1cwmiQ7gigqOHDg1ohFO+G/w4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MAXI_X3.exe.config" size="1025">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>us1CcCSBmODKl9Lz/vU7Ro2yqljG236QX1bmtJSGTKo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-R505F47\emger" issuerKeyHash="5ae6c25cc94cd40c23b43bb6818659a6b4264c59" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gCfE/bAIx3W0Vmu7fBxKdk2NEfhytBwz5ORfWlsCjhg=</DigestValue></Reference></SignedInfo><SignatureValue>q/WOFyeKGRQK+l41xFciSybpJXsQ7bcPAipL6XzQT5SwekwFdePqmdUUgfiTfadoJgvZXXHrTDlv5DO7tXAbCjl8V1BpWY84opVG41BsV4ndo5RN1dlzrI0W+BZFQ+765fk0ocacQKPbThxsRuYfv30ggRCZIAOmMAmNtue7620=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1o6HSO7Wl26rO20Xbx1t9PI3jnBXdl53mBZQklv4YhW1v+r2CtA/4qLDN5LEbQ/Rlbn2ahGhzvBMzRrJbVp979x6vLsq1e18YG5TWIs6lV0/lsK80b0KukrK2DpsiAMRKZIwJZSrGsEQNBjrV7fn5pIgLtUkbJSZShyzszybZm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="188e025b5a5fe4e4331cb472f8118d4d764a1c7cbb6b56b475c708b0fdc42780" Description="" Url=""><as:assemblyIdentity name="MAXI_X3.exe" version="1.0.0.8" publicKeyToken="8ba9bbce6100e27d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-R505F47\emger</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qCeQ2QkzSXwV0bq6j4NHxgOG7Wqb3cFfj0Jmkkrd81U=</DigestValue></Reference></SignedInfo><SignatureValue>BNY+AOmp9QkNhuTvPO+JIm1HRwrXvlLcvun0RjR0sHpIwWEplCQBl+ylfaL3U2UJpzHQ7vEm2GCVEValqN7YGGugUfj+9bxnSoWkv/5eJTL8JYKiKmMdP/2pVHh4S5MHWTQ7LCTge9DK6jlRuHdjjwmqv6i5oEUF+lyGji0N/gc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1o6HSO7Wl26rO20Xbx1t9PI3jnBXdl53mBZQklv4YhW1v+r2CtA/4qLDN5LEbQ/Rlbn2ahGhzvBMzRrJbVp979x6vLsq1e18YG5TWIs6lV0/lsK80b0KukrK2DpsiAMRKZIwJZSrGsEQNBjrV7fn5pIgLtUkbJSZShyzszybZm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQac/5I+hGu6hCvm3TJZko6TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFIANQAwADUARgA0ADcAXABlAG0AZwBlAHIwHhcNMjMwNzI1MTUxNzU4WhcNMjQwNzI0MjExNzU4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFIANQAwADUARgA0ADcAXABlAG0AZwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANaOh0ju1pduqzttF28dbfTyN45wV3Zed5gWUJJb+GIVtb/q9grQP+KiwzeSxG0P0ZW59moRoc7wTM0ayW1afe/cery7KtXtfGBuU1iLOpVdP5bCvNG9CrpKytg6bIgDESmSMCWUqxrBEDQY61e35+aSIC7VJGyUmUocs7M8m2ZtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEACHwSdGvy9SPjziJm6moQJdQeRWN/MI08GXdhctR6vVWK7dOIw2rwBqSFGR3oNh/VraZx0MTXuCpYjW/rTRbcIxoIqyK+pzODVZamsqfnV8oisJ0JHKMExRe5bLSfJhBRZeknZuxdzG4K9nyo2mCckkPL+XKIZc5Pabv+ve1xt4U=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

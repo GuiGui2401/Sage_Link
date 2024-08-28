@@ -1,0 +1,8 @@
+﻿   	-> LOADING DA... <- 20230210_013256
+   	-> DA LOADED... <- 20230210_013350
+   	-> SENDING DA TO SAGE X3 <- 20230210_013350
+Checking connection to SAGE X3... 20230210_013417
+Error X3 : Il est impossible de construire les tables de paramètres avec les valeurs fournies au format XML. : 20230210_013423
+Error X3 : Il est impossible de construire les tables de paramètres avec les valeurs fournies au format XML. : 20230210_013423
+Error X3 : Il est impossible de construire les tables de paramètres avec les valeurs fournies au format XML. : 20230210_013423
+	1 DA Sended : 20230210_013423

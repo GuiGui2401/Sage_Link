@@ -1,0 +1,49 @@
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe.config
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.pdb
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csproj.CoreCompileInputs.cache
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csproj.CopyComplete
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.exe
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.pdb
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Philippe Essoh\source\repos\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.exe
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe.config
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.exe
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.pdb
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.exe
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\MAXI_X3.pdb
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrateur\Desktop\MAXI_FINAL\repos\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csprojResolveAssemblyReference.cache
+C:\Users\User\3D Objects\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.exe
+C:\Users\User\3D Objects\repos\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.pdb
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.dll
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.dll
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Newtonsoft.Json.xml
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\System.Net.Http.Formatting.xml
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csproj.CoreCompileInputs.cache
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csproj.CopyComplete
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\MAXI_X3.csproj.AssemblyReference.cache
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Maximo Connect.exe.config
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Maximo Connect.exe.manifest
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Maximo Connect.application
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Maximo Connect.exe
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\bin\Debug\Maximo Connect.pdb
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\Maximo Connect.exe.manifest
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\Maximo Connect.application
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\Maximo Connect.exe
+C:\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\MAXI_X3\obj\Debug\Maximo Connect.pdb

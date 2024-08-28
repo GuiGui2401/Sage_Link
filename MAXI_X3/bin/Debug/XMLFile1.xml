@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ITEMMboSet rsStart="0" xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ITEM xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="9007218">
+		<ORDERUNIT>UNITE</ORDERUNIT>
+		<STATUS>ACTIF</STATUS>
+		<DESCRIPTION>Filtre à huile, 471 034</DESCRIPTION>
+		<ISSUEUNIT>UNITE</ISSUEUNIT>
+		<CLASSSTRUCTUREID>ALIM1</CLASSSTRUCTUREID>
+		<ITEMNUM>FPIEME-F090</ITEMNUM>
+	</ITEM>
+	<ITEM xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="9007318">
+		<ORDERUNIT>PIECE</ORDERUNIT>
+		<STATUS>ACTIF</STATUS>
+		<DESCRIPTION>Filtre à huile, 5S02130E</DESCRIPTION>
+		<ISSUEUNIT>UNITE</ISSUEUNIT>
+		<CLASSSTRUCTUREID>ALIM1</CLASSSTRUCTUREID>
+		<ITEMNUM>FPIEME-F091</ITEMNUM>
+	</ITEM>
+	<ITEM xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="9007320">
+		<ORDERUNIT>PIECE</ORDERUNIT>
+		<STATUS>ACTIF</STATUS>
+		<DESCRIPTION>Filtre à huile, 5GH134</DESCRIPTION>
+		<ISSUEUNIT>UNITE</ISSUEUNIT>
+		<CLASSSTRUCTUREID>ALIM2</CLASSSTRUCTUREID>
+		<ITEMNUM>FPIEME-F092</ITEMNUM>
+	</ITEM>
+	<ITEM xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="9007322">
+		<ORDERUNIT>UNITE</ORDERUNIT>
+		<STATUS>ACTIF</STATUS>
+		<DESCRIPTION>Filtre à huile, 15040340W</DESCRIPTION>
+		<ISSUEUNIT>UNITE</ISSUEUNIT>
+		<CLASSSTRUCTUREID>ALIM2</CLASSSTRUCTUREID>
+		<ITEMNUM>FPIEME-F093</ITEMNUM>
+	</ITEM>
+	<ITEM xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="9007349">
+		<ORDERUNIT>UNITE</ORDERUNIT>
+		<STATUS>ACTIF</STATUS>
+		<DESCRIPTION>Filtre à huile, 457 556</DESCRIPTION>
+		<ISSUEUNIT>UNITE</ISSUEUNIT>
+		<CLASSSTRUCTUREID>ALIM2</CLASSSTRUCTUREID>
+		<ITEMNUM>FPIEME-F094</ITEMNUM>
+	</ITEM>
+</ITEMMboSet>

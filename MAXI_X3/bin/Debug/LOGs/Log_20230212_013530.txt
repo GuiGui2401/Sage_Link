@@ -1,0 +1,10 @@
+﻿   	-> LOADING DA... <- 20230212_013530
+   	-> DA LOADED... <- 20230212_013554
+   	-> SENDING DA TO SAGE X3 <- 20230212_013554
+Checking connection to SAGE X3... 20230212_013554
+1 DA OK : 20230212_013602
+Error X3 : Le serveur X3 n'a pas renvoyé de réponse (NDRESULT).
+Le serveur X3 n'est pas autorisé à demander l'ouverture d'une fenêtre [{"winId":"OITF","funcId":"GESITF","stamp":"20220215182020"}] au serveur de service web : 20230212_013607
+Error X3 : Le serveur X3 n'a pas renvoyé de réponse (NDRESULT).
+Le serveur X3 n'est pas autorisé à demander l'ouverture d'une fenêtre [{"winId":"OITF","funcId":"GESITF","stamp":"20220215182020"}] au serveur de service web : 20230212_013611
+	1 DA Sended : 20230212_013611

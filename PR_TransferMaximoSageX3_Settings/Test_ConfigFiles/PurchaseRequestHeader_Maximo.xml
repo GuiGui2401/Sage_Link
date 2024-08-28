@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRMboSet rsStart="0" xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28138698">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test de notification BC</DESCRIPTION>
+        <ISSUEDATE>2023-11-07T16:47:35+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/039</PRNUM>
+        <REQUESTEDBY>P1434</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-08T16:47:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="31698756">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test DA interface</DESCRIPTION>
+        <ISSUEDATE>2024-02-08T14:29:59+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/048</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T14:29:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33108393">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test interface 16Fev24</DESCRIPTION>
+        <ISSUEDATE>2024-02-16T12:16:53+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/049</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-18T12:16:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33370120">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test2_2/21/2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-21T15:22:12+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/051</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-21T15:22:00+00:00</REQUIREDDATE>
+    </PR>
+	<PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35818561">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACE 2 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T11:19:18+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/057</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T11:24:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="38457600">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 18042024</DESCRIPTION>
+        <ISSUEDATE>2024-04-18T15:41:14+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/060</PRNUM>
+        <VENDOR>WOR024</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-04-29T15:41:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35812500">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T10:14:46+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/056</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>5317-N</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T10:20:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="33716381">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test Interface 26Fev2024</DESCRIPTION>
+        <ISSUEDATE>2024-02-26T17:30:20+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/053</PRNUM>
+        <VENDOR>TESTD</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-02-29T17:30:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="34619642">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 07032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-07T11:01:01+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/054</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-11T11:01:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35045647">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>Test interfacage 13Mars2024</DESCRIPTION>
+        <ISSUEDATE>2024-03-13T16:26:54+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/055</PRNUM>
+        <VENDOR>CAM001</VENDOR>
+        <REQUESTEDBY>MAXADMIN</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-18T16:26:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="35822723">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>TEST INTERFACAGE 4 20032024</DESCRIPTION>
+        <ISSUEDATE>2024-03-20T12:10:03+00:00</ISSUEDATE>
+        <PRNUM>DA-/24/059</PRNUM>
+        <VENDOR>ALASIK</VENDOR>
+        <REQUESTEDBY>4541-Y</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2024-03-27T12:11:00+00:00</REQUIREDDATE>
+    </PR>
+    <PR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rowstamp="28273097">
+        <STATUS>OKDIR</STATUS>
+        <DESCRIPTION>test de notification</DESCRIPTION>
+        <ISSUEDATE>2023-11-08T16:44:55+00:00</ISSUEDATE>
+        <PRNUM>DA-/23/040</PRNUM>
+        <REQUESTEDBY>P1433</REQUESTEDBY>
+        <CURRENCYCODE>XAF</CURRENCYCODE>
+        <REQUIREDDATE>2023-11-09T16:44:00+00:00</REQUIREDDATE>
+    </PR>
+</PRMboSet>

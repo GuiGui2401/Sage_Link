@@ -1,0 +1,5 @@
+﻿   	-> LOADING DA... <- 20230209_161104
+   	-> DA LOADED... <- 20230209_162031
+   	-> SENDING DA TO SAGE X3 <- 20230209_162031
+Checking connection to SAGE X3... 20230209_162430
+Connection STATUS : 0, Le sous programme X3 (AWEB:RECUPHDAT) de lecture des horodatages des services web a renvoyé le status [Service web inexistant (0)] et l'horodatage []., : 20230209_162432

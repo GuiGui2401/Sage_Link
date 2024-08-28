@@ -1,0 +1,13 @@
+﻿   	-> LOADING DA... <- 20230210_014205
+   	-> DA LOADED... <- 20230210_014250
+   	-> SENDING DA TO SAGE X3 <- 20230210_014250
+Checking connection to SAGE X3... 20230210_014257
+Error X3 : X3 Error: , message:ZSUPPLIER_A : Incompatibilité de type, line :0, type:1 : 20230210_014310
+Error X3 : X3 Error: , message:ZSUPPLIER_A : Incompatibilité de type, line :0, type:1 : 20230210_014310
+Error X3 : Zone obligatoire : 20230210_014311
+Error X3 : Erreur zone [M:PSH0]ZSUPPLIER : 20230210_014311
+Error X3 : Zone obligatoire : 20230210_014311
+Error X3 : Erreur zone [M:PSH1]PRHFCY : 20230210_014311
+Error X3 : X3 Error: , message:ZSUPPLIER_A : Incompatibilité de type, line :0, type:1 : 20230210_014311
+Error X3 : X3 Error: , message:ZSUPPLIER_A : Incompatibilité de type, line :0, type:1 : 20230210_014311
+	1 DA Sended : 20230210_014311

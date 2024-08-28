@@ -1,0 +1,10 @@
+C:\Users\User\3D Objects\repos\MAXI_X3\obj\Debug\net7.0\MAXI_X3.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\repos\MAXI_X3\obj\Debug\net7.0\MAXI_X3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\repos\MAXI_X3\obj\Debug\net7.0\MAXI_X3.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\repos\MAXI_X3\obj\Debug\net7.0\MAXI_X3.AssemblyInfo.cs
+C:\Users\User\3D Objects\repos\MAXI_X3\obj\Debug\net7.0\MAXI_X3.csproj.CoreCompileInputs.cache
+C:\DTTA\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\obj\Debug\net7.0\MAXI_X3.csproj.AssemblyReference.cache
+C:\DTTA\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\obj\Debug\net7.0\MAXI_X3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DTTA\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\obj\Debug\net7.0\MAXI_X3.AssemblyInfoInputs.cache
+C:\DTTA\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\obj\Debug\net7.0\MAXI_X3.AssemblyInfo.cs
+C:\DTTA\GMAO_PAD\gestion_imaximo_sage\MAXI_X3\obj\Debug\net7.0\MAXI_X3.csproj.CoreCompileInputs.cache
